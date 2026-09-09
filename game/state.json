@@ -1,12 +1,14 @@
 {
-  "board": "---------",
+  "board": "------OX-",
   "stats": {
     "games": 0,
     "human_wins": 0,
     "ai_wins": 0,
     "draws": 0
   },
-  "recent": [],
+  "recent": [
+    "ziadjamikka"
+  ],
   "hall_of_fame": [],
   "last_result": null
 }
