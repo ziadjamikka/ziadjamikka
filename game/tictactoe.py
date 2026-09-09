@@ -277,6 +277,8 @@ def play(state: dict, title: str, user: str, repo: str) -> str:
 
 
 def main() -> None:
+    if hasattr(sys.stdout, "reconfigure"):          # Windows consoles default to cp1252, which cannot print the emoji
+        sys.stdout.reconfigure(encoding="utf-8", errors="replace")
     repo = os.environ.get("REPO", "ziadjamikka/ziadjamikka")
     state = load_state()
 

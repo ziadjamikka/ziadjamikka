@@ -48,6 +48,9 @@ Open your profile — the banner, the 3D shapes and the board are already live.
    (Actions → 🐍 Contribution snake → Run workflow). It creates the `output`
    branch that the snake images in the README point to. After that it runs
    daily on its own.
+4. The **📊 Profile stats** workflow renders the stats, languages and streak
+   cards into the `stats` branch. It runs automatically on the first push and
+   then daily; run it by hand the same way if you ever want a refresh.
 
 ## 5. Test the game
 
@@ -65,7 +68,7 @@ comments on the issue and closes it. You'll see the commit
 | Banner avatar in original colours instead of tinted | set `AVATAR_DUOTONE = False` in `tools/generate_svgs.py` (or point the README at `assets/banner_original_colors.svg`) |
 | How often the AI blunders (default 12%) | `AI_MISTAKE_RATE` in `game/tictactoe.py` |
 | Wording of the game section / issue replies | `render_section()` and `play()` in `game/tictactoe.py` |
-| Stats card colours | the `theme=` / colour params in the GitHub stats URLs in `README.md` |
+| Stats cards (palette, layout, which numbers) | `tools/generate_stats.py`, then run it (`python tools/generate_stats.py dist`) |
 | Typing intro lines | the `lines=` param in the readme-typing-svg URL (use `+` for spaces, `;` between lines) |
 
 ## Files
@@ -85,8 +88,10 @@ assets/ttt/{empty,x,o}.svg     game cells
 game/tictactoe.py              minimax engine + README renderer
 game/state.json                current board and stats (edited by the Action)
 tools/generate_svgs.py         regenerates every SVG above
+tools/generate_stats.py        renders the stats / languages / streak cards (published to the `stats` branch)
 .github/workflows/tictactoe.yml  plays the AI's turn when an issue is opened
 .github/workflows/snake.yml      daily contribution-snake animation
+.github/workflows/stats.yml      daily stats cards
 ```
 
 All animations are pure SVG (SMIL) — GitHub strips JavaScript from READMEs,
@@ -100,6 +105,9 @@ GitHub supports.
 - Pin your best repos (PATHIRA VISION, the video generator, the kitchen
   monitor…) from the profile page — the README gets people interested, pinned
   repos let them dig in.
-- The stats cards (`github-readme-stats`, `streak-stats`, `readme-typing-svg`,
-  `capsule-render`, `komarev`) are free community services; if one is ever
-  down the image simply won't load, nothing else breaks.
+- The stats, languages and streak cards are rendered inside this repo by the
+  📊 Profile stats workflow, so they don't depend on the public
+  `github-readme-stats` / `streak-stats` servers (which are often paused or
+  rate-limited). The typing intro, `capsule-render` footer and `komarev`
+  view counter are still free community services; if one is ever down the
+  image simply won't load, nothing else breaks.

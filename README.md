@@ -257,10 +257,10 @@ Co-authored and presented the research paper behind PATHIRA VISION.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ziadjamikka&show_icons=true&hide_border=true&bg_color=0c1622&title_color=628d7c&icon_color=628d7c&text_color=628d7c&ring_color=628d7c" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadjamikka&layout=compact&hide_border=true&bg_color=0c1622&title_color=628d7c&text_color=628d7c" height="165" alt="Top languages"/>
+<img src="https://raw.githubusercontent.com/ziadjamikka/ziadjamikka/stats/stats.svg" height="165" alt="GitHub stats"/>
+<img src="https://raw.githubusercontent.com/ziadjamikka/ziadjamikka/stats/langs.svg" height="165" alt="Top languages"/>
 
-<img src="https://streak-stats.demolab.com?user=ziadjamikka&hide_border=true&background=0c1622&ring=628d7c&fire=628d7c&currStreakNum=628d7c&sideNums=628d7c&currStreakLabel=628d7c&sideLabels=628d7c&dates=23444b" alt="Contribution streak"/>
+<img src="https://raw.githubusercontent.com/ziadjamikka/ziadjamikka/stats/streak.svg" alt="Contribution streak"/>
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ziadjamikka/ziadjamikka/output/github-snake-dark.svg"/>
