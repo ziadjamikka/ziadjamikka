@@ -277,7 +277,7 @@ def play(state: dict, title: str, user: str, repo: str) -> str:
 
 
 def main() -> None:
-    repo = os.environ.get("REPO", "YOUR_USERNAME/YOUR_USERNAME")
+    repo = os.environ.get("REPO", "ziadjamikka/ziadjamikka")
     state = load_state()
 
     if "--init" in sys.argv:
