@@ -1,5 +1,5 @@
 {
-  "board": "------OX-",
+  "board": "---------",
   "stats": {
     "games": 0,
     "human_wins": 0,
@@ -10,5 +10,5 @@
     "ziadjamikka"
   ],
   "hall_of_fame": [],
-  "last_result": null
+  "last_result": "\ud83e\uddf9 <a href=\"https://github.com/ziadjamikka\"><b>@ziadjamikka</b></a> reset the board."
 }
