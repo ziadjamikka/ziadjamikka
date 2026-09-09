@@ -5,9 +5,8 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=628D7C&center=true&vCenter=true&width=760&lines=AI+Engineer+%40+Syra+(formerly+Zedny);Computer+Vision+%7C+NLP+%7C+Deep+Learning;I+build+AI+that+sees%2C+reads+and+speaks;Published+researcher+%7C+Hackathon+winner+%7C+Freelancer" alt="Typing intro"/>
 
 <a href="mailto:ziadelja12@gmail.com"><img src="https://img.shields.io/badge/Email-ziadelja12%40gmail.com-628d7c?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0c1622" alt="Email"/></a>
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-628d7c?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0c1622" alt="LinkedIn"/></a>
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visit-628d7c?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0c1622" alt="Portfolio"/></a>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=628d7c&labelColor=0c1622&label=Profile+views" alt="Profile views"/>
+<a href="https://www.linkedin.com/in/ziad-elsayed-55914324a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-628d7c?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0c1622" alt="LinkedIn"/></a>
+<img src="https://komarev.com/ghpvc/?username=ziadjamikka&style=for-the-badge&color=628d7c&labelColor=0c1622&label=Profile+views" alt="Profile views"/>
 
 </div>
 
@@ -47,9 +46,9 @@ Yes, this board is real and it runs from my profile. Every click opens a pre-fil
 <p align="center">It's your move — you are <b>X</b>, the AI is <b>O</b>. Click any empty cell to play. Anyone can join the current game!</p>
 
 <table align="center">
-<tr><td align="center"><a href="https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=ttt%7Cmove%7C0&body=Just+click+%22Submit+new+issue%22+%E2%80%94+no+need+to+edit+anything.+%F0%9F%8E%AE"><img src="assets/ttt/empty.svg" width="88" alt="Play cell 1"/></a></td><td align="center"><a href="https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=ttt%7Cmove%7C1&body=Just+click+%22Submit+new+issue%22+%E2%80%94+no+need+to+edit+anything.+%F0%9F%8E%AE"><img src="assets/ttt/empty.svg" width="88" alt="Play cell 2"/></a></td><td align="center"><a href="https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=ttt%7Cmove%7C2&body=Just+click+%22Submit+new+issue%22+%E2%80%94+no+need+to+edit+anything.+%F0%9F%8E%AE"><img src="assets/ttt/empty.svg" width="88" alt="Play cell 3"/></a></td></tr>
-<tr><td align="center"><a href="https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=ttt%7Cmove%7C3&body=Just+click+%22Submit+new+issue%22+%E2%80%94+no+need+to+edit+anything.+%F0%9F%8E%AE"><img src="assets/ttt/empty.svg" width="88" alt="Play cell 4"/></a></td><td align="center"><a href="https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=ttt%7Cmove%7C4&body=Just+click+%22Submit+new+issue%22+%E2%80%94+no+need+to+edit+anything.+%F0%9F%8E%AE"><img src="assets/ttt/empty.svg" width="88" alt="Play cell 5"/></a></td><td align="center"><a href="https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=ttt%7Cmove%7C5&body=Just+click+%22Submit+new+issue%22+%E2%80%94+no+need+to+edit+anything.+%F0%9F%8E%AE"><img src="assets/ttt/empty.svg" width="88" alt="Play cell 6"/></a></td></tr>
-<tr><td align="center"><a href="https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=ttt%7Cmove%7C6&body=Just+click+%22Submit+new+issue%22+%E2%80%94+no+need+to+edit+anything.+%F0%9F%8E%AE"><img src="assets/ttt/empty.svg" width="88" alt="Play cell 7"/></a></td><td align="center"><a href="https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=ttt%7Cmove%7C7&body=Just+click+%22Submit+new+issue%22+%E2%80%94+no+need+to+edit+anything.+%F0%9F%8E%AE"><img src="assets/ttt/empty.svg" width="88" alt="Play cell 8"/></a></td><td align="center"><a href="https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=ttt%7Cmove%7C8&body=Just+click+%22Submit+new+issue%22+%E2%80%94+no+need+to+edit+anything.+%F0%9F%8E%AE"><img src="assets/ttt/empty.svg" width="88" alt="Play cell 9"/></a></td></tr>
+<tr><td align="center"><a href="https://github.com/ziadjamikka/ziadjamikka/issues/new?title=ttt%7Cmove%7C0&body=Just+click+%22Submit+new+issue%22+%E2%80%94+no+need+to+edit+anything.+%F0%9F%8E%AE"><img src="assets/ttt/empty.svg" width="88" alt="Play cell 1"/></a></td><td align="center"><a href="https://github.com/ziadjamikka/ziadjamikka/issues/new?title=ttt%7Cmove%7C1&body=Just+click+%22Submit+new+issue%22+%E2%80%94+no+need+to+edit+anything.+%F0%9F%8E%AE"><img src="assets/ttt/empty.svg" width="88" alt="Play cell 2"/></a></td><td align="center"><a href="https://github.com/ziadjamikka/ziadjamikka/issues/new?title=ttt%7Cmove%7C2&body=Just+click+%22Submit+new+issue%22+%E2%80%94+no+need+to+edit+anything.+%F0%9F%8E%AE"><img src="assets/ttt/empty.svg" width="88" alt="Play cell 3"/></a></td></tr>
+<tr><td align="center"><a href="https://github.com/ziadjamikka/ziadjamikka/issues/new?title=ttt%7Cmove%7C3&body=Just+click+%22Submit+new+issue%22+%E2%80%94+no+need+to+edit+anything.+%F0%9F%8E%AE"><img src="assets/ttt/empty.svg" width="88" alt="Play cell 4"/></a></td><td align="center"><a href="https://github.com/ziadjamikka/ziadjamikka/issues/new?title=ttt%7Cmove%7C4&body=Just+click+%22Submit+new+issue%22+%E2%80%94+no+need+to+edit+anything.+%F0%9F%8E%AE"><img src="assets/ttt/empty.svg" width="88" alt="Play cell 5"/></a></td><td align="center"><a href="https://github.com/ziadjamikka/ziadjamikka/issues/new?title=ttt%7Cmove%7C5&body=Just+click+%22Submit+new+issue%22+%E2%80%94+no+need+to+edit+anything.+%F0%9F%8E%AE"><img src="assets/ttt/empty.svg" width="88" alt="Play cell 6"/></a></td></tr>
+<tr><td align="center"><a href="https://github.com/ziadjamikka/ziadjamikka/issues/new?title=ttt%7Cmove%7C6&body=Just+click+%22Submit+new+issue%22+%E2%80%94+no+need+to+edit+anything.+%F0%9F%8E%AE"><img src="assets/ttt/empty.svg" width="88" alt="Play cell 7"/></a></td><td align="center"><a href="https://github.com/ziadjamikka/ziadjamikka/issues/new?title=ttt%7Cmove%7C7&body=Just+click+%22Submit+new+issue%22+%E2%80%94+no+need+to+edit+anything.+%F0%9F%8E%AE"><img src="assets/ttt/empty.svg" width="88" alt="Play cell 8"/></a></td><td align="center"><a href="https://github.com/ziadjamikka/ziadjamikka/issues/new?title=ttt%7Cmove%7C8&body=Just+click+%22Submit+new+issue%22+%E2%80%94+no+need+to+edit+anything.+%F0%9F%8E%AE"><img src="assets/ttt/empty.svg" width="88" alt="Play cell 9"/></a></td></tr>
 </table>
 
 <p align="center">
@@ -59,7 +58,7 @@ Yes, this board is real and it runs from my profile. Every click opens a pre-fil
 <img src="https://img.shields.io/badge/Draws-0-1f2b29?style=for-the-badge&labelColor=0c1622" alt="Draws: 0"/>
 </p>
 
-<p align="center">🏆 <b>Beat the AI:</b> nobody yet — be the first!<br/>🎮 <b>Recent players:</b> nobody yet<br/><sub>Stuck or want a clean board? <a href="https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=ttt%7Cnew&body=Just+click+%22Submit+new+issue%22+to+start+a+fresh+game.">Start a new game</a> · Moves take ~30 seconds to show up (a GitHub Action plays the AI's turn).</sub></p>
+<p align="center">🏆 <b>Beat the AI:</b> nobody yet — be the first!<br/>🎮 <b>Recent players:</b> nobody yet<br/><sub>Stuck or want a clean board? <a href="https://github.com/ziadjamikka/ziadjamikka/issues/new?title=ttt%7Cnew&body=Just+click+%22Submit+new+issue%22+to+start+a+fresh+game.">Start a new game</a> · Moves take ~30 seconds to show up (a GitHub Action plays the AI's turn).</sub></p>
 <!-- TTT:END -->
 
 <details>
@@ -258,15 +257,15 @@ Co-authored and presented the research paper behind PATHIRA VISION.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0c1622&title_color=628d7c&icon_color=628d7c&text_color=628d7c&ring_color=628d7c" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0c1622&title_color=628d7c&text_color=628d7c" height="165" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ziadjamikka&show_icons=true&hide_border=true&bg_color=0c1622&title_color=628d7c&icon_color=628d7c&text_color=628d7c&ring_color=628d7c" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadjamikka&layout=compact&hide_border=true&bg_color=0c1622&title_color=628d7c&text_color=628d7c" height="165" alt="Top languages"/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=0c1622&ring=628d7c&fire=628d7c&currStreakNum=628d7c&sideNums=628d7c&currStreakLabel=628d7c&sideLabels=628d7c&dates=23444b" alt="Contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=ziadjamikka&hide_border=true&background=0c1622&ring=628d7c&fire=628d7c&currStreakNum=628d7c&sideNums=628d7c&currStreakLabel=628d7c&sideLabels=628d7c&dates=23444b" alt="Contribution streak"/>
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg"/>
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg"/>
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" alt="Contribution snake"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ziadjamikka/ziadjamikka/output/github-snake-dark.svg"/>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ziadjamikka/ziadjamikka/output/github-snake.svg"/>
+<img src="https://raw.githubusercontent.com/ziadjamikka/ziadjamikka/output/github-snake-dark.svg" alt="Contribution snake"/>
 </picture>
 
 </div>
@@ -280,8 +279,7 @@ Co-authored and presented the research paper behind PATHIRA VISION.
 Open to AI engineering roles, research collaborations and freelance work in computer vision, NLP and full-stack AI products.
 
 <a href="mailto:ziadelja12@gmail.com"><img src="https://img.shields.io/badge/Say_hi-ziadelja12%40gmail.com-628d7c?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0c1622" alt="Email"/></a>
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Ziad_Elsayed-628d7c?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0c1622" alt="LinkedIn"/></a>
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-628d7c?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0c1622" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/ziad-elsayed-55914324a/"><img src="https://img.shields.io/badge/LinkedIn-Ziad_Elsayed-628d7c?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0c1622" alt="LinkedIn"/></a>
 
 <sub>Arabic (native) · English (fluent) · Cairo, Egypt</sub>
 
