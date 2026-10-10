@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 195" width="300" height="195" role="img" aria-label="Most used languages">
+<title>Most used languages</title>
+<defs>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+    <circle cx="1.5" cy="1.5" r="1" fill="#23444b" opacity="0.5"/>
+  </pattern>
+</defs>
+<style>
+  text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+  .title { font-size: 18px; font-weight: 700; fill: #628d7c; }
+  .label { font-size: 14px; font-weight: 600; fill: #628d7c; }
+  .value { font-size: 14px; font-weight: 700; fill: #a7c6ba; }
+  .big   { font-size: 30px; font-weight: 700; fill: #a7c6ba; }
+  .sub   { font-size: 11px; font-weight: 500; fill: #628d7c; opacity: 0.85; }
+  .icon  { fill: none; stroke: #628d7c; stroke-width: 1.6; stroke-linecap: round; stroke-linejoin: round; }
+</style>
+<rect x="0.5" y="0.5" width="299" height="194" rx="10" fill="#0c1622" stroke="#23444b"/>
+<rect x="0.5" y="0.5" width="299" height="194" rx="10" fill="url(#dots)"/>
+<text x="25" y="36" class="title">Most used languages</text>
+<clipPath id="bar"><rect x="25" y="52" width="250" height="9" rx="4.5"/></clipPath><g clip-path="url(#bar)">
+<rect x="25.00" y="52" width="99.64" height="9" fill="#a7c6ba"/>
+<rect x="124.64" y="52" width="60.58" height="9" fill="#628d7c"/>
+<rect x="185.22" y="52" width="55.83" height="9" fill="#4f7a6b"/>
+<rect x="241.05" y="52" width="14.93" height="9" fill="#3d6357"/>
+<rect x="255.98" y="52" width="11.93" height="9" fill="#2e4f48"/>
+<rect x="267.91" y="52" width="6.27" height="9" fill="#23444b"/>
+<rect x="274.18" y="52" width="0.82" height="9" fill="#1f2b29"/>
+<rect x="275" y="52" width="0" height="9" fill="#0c1622"><animate attributeName="width" from="250" to="0" dur="1s" fill="freeze"/><animate attributeName="x" from="25" to="275" dur="1s" fill="freeze"/></rect></g>
+<circle cx="30" cy="83" r="5" fill="#a7c6ba"/>
+<text x="42" y="88" class="value" style="font-size:13px">Jupyter</text>
+<text x="147" y="88" text-anchor="end" class="label" style="font-size:12px">39.9%</text>
+<circle cx="160" cy="83" r="5" fill="#628d7c"/>
+<text x="172" y="88" class="value" style="font-size:13px">Python</text>
+<text x="277" y="88" text-anchor="end" class="label" style="font-size:12px">24.2%</text>
+<circle cx="30" cy="109" r="5" fill="#4f7a6b"/>
+<text x="42" y="114" class="value" style="font-size:13px">HTML</text>
+<text x="147" y="114" text-anchor="end" class="label" style="font-size:12px">22.3%</text>
+<circle cx="160" cy="109" r="5" fill="#3d6357"/>
+<text x="172" y="114" class="value" style="font-size:13px">TypeScript</text>
+<text x="277" y="114" text-anchor="end" class="label" style="font-size:12px">6.0%</text>
+<circle cx="30" cy="135" r="5" fill="#2e4f48"/>
+<text x="42" y="140" class="value" style="font-size:13px">JavaScript</text>
+<text x="147" y="140" text-anchor="end" class="label" style="font-size:12px">4.8%</text>
+<circle cx="160" cy="135" r="5" fill="#23444b"/>
+<text x="172" y="140" class="value" style="font-size:13px">CSS</text>
+<text x="277" y="140" text-anchor="end" class="label" style="font-size:12px">2.5%</text>
+<circle cx="30" cy="161" r="5" fill="#1f2b29"/>
+<text x="42" y="166" class="value" style="font-size:13px">Other</text>
+<text x="147" y="166" text-anchor="end" class="label" style="font-size:12px">0.3%</text>
+</svg>
