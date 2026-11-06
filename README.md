@@ -18,7 +18,7 @@
 <tr>
 <td width="62%" valign="top">
 
-I'm an **AI Engineer at Syra (formerly Zedny)** and a Computer Vision / NLP / Deep Learning specialist based in Cairo, Egypt. I graduated in Artificial Intelligence Technology from **Helwan International Technological University (HITU)** with a **3.7 / 4.0 GPA**, and I like to own the whole pipeline: collecting data, training the model, shipping it behind a FastAPI backend and putting a React interface on top.
+I'm an AI Engineer & ML Engineer and a Computer Vision / NLP / Deep Learning specialist based in Cairo, Egypt. I graduated in Artificial Intelligence Technology from **Helwan International Technological University (HITU)** with a **3.7 / 4.0 GPA**, and I like to own the whole pipeline: collecting data, training the model, shipping it behind a FastAPI backend and putting a React interface on top.
 
 - 👓 Led **PATHIRA VISION** — AI smart glasses for the visually impaired (graduation project, graded **A+**)
 - 📄 Co-authored & presented a paper on it at **IUGRC-10**, Military Technical College, Cairo (July 2026)
