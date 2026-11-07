@@ -2,7 +2,7 @@
 
 <img src="assets/banner.svg" width="100%" alt="Ziad Elsayed — AI Engineer"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=628D7C&center=true&vCenter=true&width=760&lines=AI+Engineer+&+ML+Engineer;Computer+Vision+%7C+NLP+%7C+Deep+Learning;I+build+AI+that+sees%2C+reads+and+speaks;Published+researcher+%7C+Hackathon+winner+%7C+Freelancer" alt="Typing intro"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=628D7C&center=true&vCenter=true&width=760&lines=AI+Engineer+%26+ML+Engineer;Computer+Vision+%7C+NLP+%7C+Deep+Learning;I+build+AI+that+sees%2C+reads+and+speaks;Published+researcher+%7C+Hackathon+winner+%7C+Freelancer" alt="Typing intro"/>
 
 <a href="mailto:ziadelja12@gmail.com"><img src="https://img.shields.io/badge/Email-ziadelja12%40gmail.com-628d7c?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0c1622" alt="Email"/></a>
 <a href="https://www.linkedin.com/in/ziad-elsayed-55914324a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-628d7c?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0c1622" alt="LinkedIn"/></a>
